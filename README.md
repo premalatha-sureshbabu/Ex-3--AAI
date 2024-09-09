@@ -117,7 +117,9 @@ print(query_result)
 
 ## Output:
 <Show your results>
-![Screenshot 2024-09-09 214352](https://github.com/user-attachments/assets/084d4a2b-02ea-497c-84e9-c78e5d3b9b6a)
+
+![Screenshot 2024-09-09 214352](https://github.com/user-attachments/assets/f8cf0012-0ac8-45d2-96dd-b3e0393032ab)
+
 
 ![Screenshot 2024-09-09 214358](https://github.com/user-attachments/assets/526c1c0c-7a24-4348-8c9c-2550d375527d)
 
